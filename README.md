@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Himesh Koli
-- 🌱 I’m currently learning Data Science & Machine Learning
-- 💞️ I’m looking for an entry level job in Data science & Machine Learning
-- 📫 Reach me through my [Email](himeshkoli.work@gmail.com) OR [LinkedIn](www.linkedin.com/in/himeshkoli)
+- 🌱 Enthusiastic Data driven guy and passionate about learning new skills
+- 💞️ Looking for an entry level job in Data science or Machine Learning
+- 📫 Reach me through my mail @himeshkoli.work@gmail.com OR [LinkedIn](https://www.linkedin.com/in/himeshkoli/)
 
 <!---
 HimeshKoli/HimeshKoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
