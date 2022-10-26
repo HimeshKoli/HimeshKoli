@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himesh Koli
-- 🌱 Enthusiastic Data driven guy and passionate about learning new skills
-- 💞️ Adapt, Improvise, Overcome...
+- 🌱 Adapt, Improvise, Overcome personality 
+- 💞️ Seeking junior level role in Data Science / Machine Learning 
 - 📫 Reach me through my mail @himeshkoli.work@gmail.com OR [LinkedIn](https://www.linkedin.com/in/himeshkoli/)
 
 <!---
