@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himesh Koli
 - 🌱 Enthusiastic Data driven guy and passionate about learning new skills
-- 💞️ Looking for an entry level job in Data science or Machine Learning
+- 💞️ Adapt, Improvise, Overcome...
 - 📫 Reach me through my mail @himeshkoli.work@gmail.com OR [LinkedIn](https://www.linkedin.com/in/himeshkoli/)
 
 <!---
